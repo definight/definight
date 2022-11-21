@@ -20,6 +20,14 @@ Link to my CV
 ![CSS](https://img.shields.io/badge/-CSS-212121?style=for-the-badge&logo=CSS3&logoColor=2449D8)
 ![GIT](https://img.shields.io/badge/-GIT-212121?style=for-the-badge&logo=Git&logoColor=#EFD8D5)
 
+## Testing Documentation
+
+* Checklists
+* Test-Cases
+* Bug-Reports
+* SQL Queries
+* Postman Collections
+
 ## Contacts
 
 ![Email](https://img.shields.io/badge/-Email-212121?style=for-the-badge&logo=gmail&logoColor=#DE4032)
