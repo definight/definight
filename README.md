@@ -24,4 +24,4 @@ Link to my CV
 
 ![Email](https://img.shields.io/badge/-Email-212121?style=for-the-badge&logo=gmail&logoColor=#DE4032)
 ![Telegram](https://img.shields.io/badge/-TELEGRAM-212121?style=for-the-badge&logo=Telegram&logoColor=#EFEFEF)
-![LinkedIN](https://img.shields.io/badge/-GIT-212121?style=for-the-badge&logo=LinkedIN&logoColor=0A66C2)
+![LinkedIN](https://img.shields.io/badge/-LINKEDIN-212121?style=for-the-badge&logo=LinkedIN&logoColor=0A66C2)
