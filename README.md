@@ -21,13 +21,13 @@ Link to my CV
 ![CSS](https://img.shields.io/badge/-CSS-212121?style=for-the-badge&logo=CSS3&logoColor=2449D8)
 ![GIT](https://img.shields.io/badge/-GIT-212121?style=for-the-badge&logo=Git&logoColor=#EFD8D5)
 
-## Testing Documentation
+## Testing Documentation 
 
-* Checklists
-* Test-Cases
-* Bug-Reports
-* SQL Queries
-* Postman Collections
+* [Checklists](https://github.com/definight/checklist)
+* [Test-Cases](https://github.com/definight/test-cases)
+* [Bug-Reports](https://github.com/definight/bug-reports)
+* [SQL Queries](https://github.com/definight/SQL)
+* [Postman Collections](https://github.com/definight/postman)
 
 ## Contacts
 
