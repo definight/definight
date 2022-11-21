@@ -31,8 +31,8 @@ Link to my CV
 
 ## Contacts
 
-![Email](https://img.shields.io/badge/-Email-212121?style=for-the-badge&logo=gmail&logoColor=#DE4032)
-![Telegram](https://img.shields.io/badge/-TELEGRAM-212121?style=for-the-badge&logo=Telegram&logoColor=#EFEFEF)
-![LinkedIN](https://img.shields.io/badge/-LINKEDIN-212121?style=for-the-badge&logo=LinkedIN&logoColor=0A66C2)
+[![Email](https://img.shields.io/badge/-Email-212121?style=for-the-badge&logo=gmail&logoColor=#DE4032)](mailto:streetbaol@gmail.com)
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-212121?style=for-the-badge&logo=Telegram&logoColor=#EFEFEF)](https://t.me/definight)
+[![LinkedIN](https://img.shields.io/badge/-LINKEDIN-212121?style=for-the-badge&logo=LinkedIN&logoColor=0A66C2)](https://www.linkedin.com/in/definight/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=definight&show_icons=true&theme=dark&icon_color=009688&bg_color=212121&border_color=009688&text_color)
