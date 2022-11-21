@@ -35,4 +35,4 @@ Link to my CV
 ![Telegram](https://img.shields.io/badge/-TELEGRAM-212121?style=for-the-badge&logo=Telegram&logoColor=#EFEFEF)
 ![LinkedIN](https://img.shields.io/badge/-LINKEDIN-212121?style=for-the-badge&logo=LinkedIN&logoColor=0A66C2)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=definight&show_icons=true&theme=dark&icon_color=009688&bg_color=212121&border_color=009688)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=definight&show_icons=true&theme=dark&icon_color=009688&bg_color=212121&border_color=009688&text_color)
