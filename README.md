@@ -7,6 +7,7 @@
 Link to my CV
 
 ## Languages and tools
+
 ![JIRA](https://img.shields.io/badge/-JIRA-212121?style=for-the-badge&logo=Jira&logoColor=2684FF)
 ![TESTRAIL](https://img.shields.io/badge/-TESTRAIL-212121?style=for-the-badge&logo=TestRail&logoColor=2684FF)
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-212121?style=for-the-badge&logo=POSTMAN&logoColor=#FFFFFF)
@@ -34,5 +35,4 @@ Link to my CV
 ![Telegram](https://img.shields.io/badge/-TELEGRAM-212121?style=for-the-badge&logo=Telegram&logoColor=#EFEFEF)
 ![LinkedIN](https://img.shields.io/badge/-LINKEDIN-212121?style=for-the-badge&logo=LinkedIN&logoColor=0A66C2)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=definight&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=definight&show_icons=true&theme=dark&icon_color=009688&bg_color=212121&border_color=009688)
