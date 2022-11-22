@@ -23,7 +23,7 @@
 
 ## Testing Documentation 
 
-* [Checklists](https://github.com/definight/checklist)
+* [Checklist](https://github.com/definight/checklist)
 * [Test-Cases](https://github.com/definight/test-cases)
 * [Bug-Reports](https://github.com/definight/bug-reports)
 * [SQL Queries](https://github.com/definight/SQL)
