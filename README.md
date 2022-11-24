@@ -28,6 +28,7 @@
 * [Bug-Reports](https://github.com/definight/bug-reports)
 * [SQL Queries](https://github.com/definight/SQL)
 * [Postman Collection](https://github.com/definight/postman)
+* [Mind map](https://github.com/definight/mindmap)
 
 ## Contacts
 
