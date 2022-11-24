@@ -27,7 +27,7 @@
 * [Test-Cases](https://github.com/definight/test-cases)
 * [Bug-Reports](https://github.com/definight/bug-reports)
 * [SQL Queries](https://github.com/definight/SQL)
-* [Postman Collections](https://github.com/definight/postman)
+* [Postman Collection](https://github.com/definight/postman)
 
 ## Contacts
 
