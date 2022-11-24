@@ -34,12 +34,24 @@
 
 <details>
    <summary>Short bio</summary>
-  I began to be interested in software and hardware at a preschool age, at the time of 512 mb RAM and Intel Pentium 3. At the age of 13 I built my first PC and I even still remember all the specs. 
-Internet literally changed my life. I realized how much people can discover just by surfing online but staying at home. I started spending many hours online: browsing Wikipedia, reading news from the countries around the world, discovering new tools like Photoshop or social networks. 
-But computers and Internet always was like a hobby for me, before I asked myself: what stopping me get a job in IT? I tried my skills in 2013-2014 years as a QA engineer in small team on freelance. But job didn't pay well, I had to pay bills and loans, so I decide to get back to retail as a shop assistant.
-Then I changed my job to logistics as a courier, that job was boring, nervous and with no career progression. The more i worked, the often I thought about my software/hardware/IT background. And one day at the morning I made two decisions, that changed my life to much better track: quit job and get a degree as a QA engineer. 
-I got a temporary job to earn money for the education, worked hard 6/1 and up to 16 hours a day, cut my spendings as much as possible. After a 6 months I've earned enough to pay for QA course, so i quit my job and get all myself into education.
-In summary, now I'm a QA engineer and an advanced PC user for over 16 years
+  <p>
+     I got interested in software and hardware at a preschool age, in the 1998-1999 years, at the time of 512 MB RAM and Intel Pentium 3. When i was 13, I built my first PC and I even still remember all the specs.
+   </p>
+<p>
+    Internet literally changed my life. I realized how much people can discover just by surfing online but staying at home. I started spending many hours online: browsing Wikipedia, reading news from the countries around the world, discovering new tools like Photoshop or social networks.
+   </p> 
+<p>
+    But computers and Internet always were like a hobby for me, before I asked myself: what stops me from getting a job in IT? I tried my skills in 2013-2014 as a QA engineer in a small team on freelance. But the job didn't pay well. I had to pay bills and loans, so I decide to get back to retail as a shop assistant.
+   </p>
+<p>
+     Then I changed my job to logistics as a courier; that job was boring, nervous, and with no career progression. The more I worked, the often I thought about my software/hardware/IT background. And one day at the morning I made two decisions, that changed my life to much better track: quit job, and get a degree as a QA engineer.
+   </p> 
+<p>
+   I got a temporary job to earn money for the education, worked hard up to 6 days a week , and up to 16 hours a day, cut my spendings as much as possible. After a 6 months I've earned enough to pay for QA course, so i quit my job and get all myself into education.
+   </p>
+<p>
+   In summary, now I'm a QA engineer and an advanced PC user for over 16 years
+   </p>
 </details>
 
 ## Contacts
