@@ -24,8 +24,8 @@
 ## Testing Documentation 
 
 * [Checklist](https://github.com/definight/checklist)
-* [Test-Cases](https://github.com/definight/test-cases)
-* [Bug-Reports](https://github.com/definight/bug-reports)
+* [Test Cases](https://github.com/definight/test-cases)
+* [Bug Reports](https://github.com/definight/bug-reports)
 * [SQL Queries](https://github.com/definight/SQL)
 * [Postman Collection](https://github.com/definight/postman)
 * [Mind map](https://github.com/definight/mindmap)
