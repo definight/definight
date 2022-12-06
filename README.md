@@ -28,7 +28,7 @@
 * [Bug Reports](https://github.com/definight/bug-reports)
 * [SQL Queries](https://github.com/definight/SQL)
 * [Postman Collection](https://github.com/definight/postman)
-* [State-Transition Diagram](https://github.com/definight/mindmap)
+* [State Transition Diagram](https://github.com/definight/mindmap)
 
 ## About me
 
