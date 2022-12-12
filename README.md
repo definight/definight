@@ -1,6 +1,6 @@
 
 
-## Hi! I'm a QA engineer with over 1 year of experience
+## Hi! I'm a QA engineer with over 2 years of experience
 
 ## CV
 
