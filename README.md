@@ -4,7 +4,7 @@
 
 ## CV
 
-[Link to my CV](https://drive.google.com/file/d/17WMWvzbYrk9uuW0AU20jvuL3AhYz9Ux0/view?usp=share_link) (ru)
+[Link to my CV](https://drive.google.com/file/d/1EPhVLJPFOx-aBvh72666ARlG_Fon2WbT/view?usp=share_link) (ru)
 
 ## Languages and tools
 
