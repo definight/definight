@@ -1,10 +1,6 @@
 
 
-## Hi! I'm a QA engineer with over 2 years of experience
-
-## CV
-
-[Link to my CV](https://drive.google.com/file/d/1EPhVLJPFOx-aBvh72666ARlG_Fon2WbT/view?usp=share_link) (ru)
+## Hi! I'm a QA engineer
 
 ## Languages and tools
 
