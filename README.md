@@ -28,8 +28,10 @@
 
 ## About me
 
-<details>
-   <summary>Short bio</summary>
+ <details>
+    WIP
+<!--- 
+    <summary>Short bio</summary>
   <p>
      I got interested in software and hardware at a preschool age, in the 1998-1999 years, at the time of 512 MB RAM and Intel Pentium 3. When i was 13, I built my first PC and I even still remember all the specs.
    </p>
@@ -48,7 +50,9 @@
 <p>
    In summary, now I'm a QA engineer and an advanced PC user for over 16 years
    </p>
-</details>
+-->
+ </details>
+
 
 ## Contacts
 
