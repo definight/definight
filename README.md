@@ -29,9 +29,10 @@
 ## About me
 
  <details>
-    WIP
-<!--- 
-    <summary>Short bio</summary>
+
+ <summary>Short bio</summary>
+ WIP
+   <!---
   <p>
      I got interested in software and hardware at a preschool age, in the 1998-1999 years, at the time of 512 MB RAM and Intel Pentium 3. When i was 13, I built my first PC and I even still remember all the specs.
    </p>
