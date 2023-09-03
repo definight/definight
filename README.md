@@ -16,7 +16,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-212121?style=for-the-badge&logo=HTML5&logoColor=D84924)
 ![CSS](https://img.shields.io/badge/-CSS-212121?style=for-the-badge&logo=CSS3&logoColor=2449D8)
 ![GIT](https://img.shields.io/badge/-GIT-212121?style=for-the-badge&logo=Git&logoColor=#EFD8D5)
-![UNIX](https://img.shields.io/badge/-GIT-212121?style=for-the-badge&logo=Unix&logoColor=#EFD8D5)
+![UNIX](https://img.shields.io/badge/-UNIX-212121?style=for-the-badge&logo=Unix&logoColor=#EFD8D5)
 
 ## Testing Documentation 
 
